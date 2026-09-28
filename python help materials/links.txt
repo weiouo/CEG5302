@@ -1,0 +1,14 @@
+Interactive python tuturial on codecademy [learn python 2 is free]
+	https://www.codecademy.com/enrolled/courses/learn-python
+
+Video based courses 
+	Learn Python - Full Course for Beginners [Tutorial]
+		https://www.youtube.com/watch?v=rfscVS0vtbw
+	
+	Python Tutorial - Python Full Course for Beginners
+		https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+
+Object-Oriented Programming in Python (OOP): Tutorial
+	https://www.datacamp.com/tutorial/python-oop-tutorial (recommended)
+	https://www.geeksforgeeks.org/python-oops-concepts/
