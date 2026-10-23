@@ -1,0 +1,117 @@
+{
+  "algorithm_version": "task3-cnsga2-v1",
+  "baseline": {
+    "pop_size": 100,
+    "max_gen": 500,
+    "pc": 0.8,
+    "pm": 0.05,
+    "eta_c": 20.0,
+    "eta_m": 20.0,
+    "cv_tol": 1e-12
+  },
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "mode": "load",
+  "runs": [
+    {
+      "algorithm_version": "task3-cnsga2-v1",
+      "matplotlib": "3.10.0",
+      "numpy": "2.1.3",
+      "parameters": {
+        "cv_tol": 1e-12,
+        "eta_c": 20.0,
+        "eta_m": 20.0,
+        "max_gen": 500,
+        "pc": 0.8,
+        "pm": 0.05,
+        "pop_size": 100
+      },
+      "problem": "MW7",
+      "python": "3.13.5",
+      "schema_version": 1,
+      "seed": 0,
+      "source_python_sha256": "4ae01387bde7d7640ea8505846c5ebc80c0b9c86deaeb7b5aee2d1d512d373e7"
+    },
+    {
+      "algorithm_version": "task3-cnsga2-v1",
+      "matplotlib": "3.10.0",
+      "numpy": "2.1.3",
+      "parameters": {
+        "cv_tol": 1e-12,
+        "eta_c": 20.0,
+        "eta_m": 20.0,
+        "max_gen": 500,
+        "pc": 0.8,
+        "pm": 0.05,
+        "pop_size": 100
+      },
+      "problem": "MW7",
+      "python": "3.13.5",
+      "schema_version": 1,
+      "seed": 1,
+      "source_python_sha256": "4ae01387bde7d7640ea8505846c5ebc80c0b9c86deaeb7b5aee2d1d512d373e7"
+    },
+    {
+      "algorithm_version": "task3-cnsga2-v1",
+      "matplotlib": "3.10.0",
+      "numpy": "2.1.3",
+      "parameters": {
+        "cv_tol": 1e-12,
+        "eta_c": 20.0,
+        "eta_m": 20.0,
+        "max_gen": 500,
+        "pc": 0.8,
+        "pm": 0.05,
+        "pop_size": 100
+      },
+      "problem": "MW7",
+      "python": "3.13.5",
+      "schema_version": 1,
+      "seed": 2,
+      "source_python_sha256": "4ae01387bde7d7640ea8505846c5ebc80c0b9c86deaeb7b5aee2d1d512d373e7"
+    },
+    {
+      "algorithm_version": "task3-cnsga2-v1",
+      "matplotlib": "3.10.0",
+      "numpy": "2.1.3",
+      "parameters": {
+        "cv_tol": 1e-12,
+        "eta_c": 20.0,
+        "eta_m": 20.0,
+        "max_gen": 500,
+        "pc": 0.8,
+        "pm": 0.05,
+        "pop_size": 100
+      },
+      "problem": "MW7",
+      "python": "3.13.5",
+      "schema_version": 1,
+      "seed": 3,
+      "source_python_sha256": "4ae01387bde7d7640ea8505846c5ebc80c0b9c86deaeb7b5aee2d1d512d373e7"
+    },
+    {
+      "algorithm_version": "task3-cnsga2-v1",
+      "matplotlib": "3.10.0",
+      "numpy": "2.1.3",
+      "parameters": {
+        "cv_tol": 1e-12,
+        "eta_c": 20.0,
+        "eta_m": 20.0,
+        "max_gen": 500,
+        "pc": 0.8,
+        "pm": 0.05,
+        "pop_size": 100
+      },
+      "problem": "MW7",
+      "python": "3.13.5",
+      "schema_version": 1,
+      "seed": 4,
+      "source_python_sha256": "4ae01387bde7d7640ea8505846c5ebc80c0b9c86deaeb7b5aee2d1d512d373e7"
+    }
+  ]
+}
