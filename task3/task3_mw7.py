@@ -508,7 +508,7 @@ def task3_get_result(name, config, seed, mode):
     return result
 
 # %% [markdown]
-# ## 5. User-run experiments
+# ## 5. MW7 experiments
 # %% tags=["task3-experiments"]
 task3_results = []
 if TASK3_MODE == "check":
